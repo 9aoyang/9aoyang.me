@@ -7,8 +7,8 @@ title: silence1amb
 subtitle: 9aoyang的个人网站
 description: 高扬 技术博客 前端 front-end
 author: 9aoyang
-language: Chinese/English
-timezone: China
+language:
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
