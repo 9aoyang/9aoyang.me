@@ -47,7 +47,7 @@ highlight:
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
-# order_by: Posts order. (Order by date descending by default)
+# order_by: Posts order. (Order by da0228a7dfb6627787e7e8c9a5fbc532373c5077c4te descending by default)
 index_generator:
   path: ''
   per_page: 10
@@ -70,7 +70,7 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-# Extensions
+Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
